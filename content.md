@@ -1,1 +1,1 @@
-"message ffrom another 2"
+"hello"
